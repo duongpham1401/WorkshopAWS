@@ -1,7 +1,7 @@
 ---
 title : "Create VPC Resource Map"
 date : "2025-06-19T06:49:25.364"
-weight : 2
+weight : 1
 chapter : false
 pre : " <b> 2.1 </b> "
 ---
@@ -11,6 +11,7 @@ pre : " <b> 2.1 </b> "
 1. **Log in to the Control Panel** on the [AWS Web Service page](https://aws.amazon.com/)
 
 2. Click on the search bar on aws and search **VPC Isolated Cloud Resources**
+
 ![AWS VPC](/images/2/12001.png?featherlight=false&width=90pc)
 
 3. Look at the left window and select **Yours VPS** (*as shown in step 1*) and select **Creat VPC** (as shown in step 2)

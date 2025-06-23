@@ -1,7 +1,7 @@
 ---
 title : "Tạo Một Máy Chủ VPC"
 date : "2025-06-19T06:49:25.364"
-weight : 2
+weight : 1
 chapter : false
 pre : " <b> 2.1 </b> "
 ---

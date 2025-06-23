@@ -3,7 +3,7 @@ title : "Tạo Admin Group và Admin User"
 date :  "2025-06-19T06:49:25.364" 
 weight : 2
 chapter : false
-pre : " <b> 2. </b> "
+pre : " <b> 2 </b> "
 ---
 
 

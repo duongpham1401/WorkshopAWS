@@ -15,6 +15,19 @@
                 href="//localhost:1313/1-create-new-aws-account/"
                 />
   </url><url>
+    <loc>//localhost:1313/2-create-admin-user-and-group/2.1-create-vpc-ec2/</loc>
+    <lastmod>2025-06-19T06:49:25+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-create-admin-user-and-group/2.1-create-vpc-ec2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-create-admin-user-and-group/2.1-create-vpc-ec2/"
+                />
+  </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2025-06-19T06:49:25+00:00</lastmod>
     <xhtml:link
@@ -54,17 +67,17 @@
                 href="//localhost:1313/2-create-admin-user-and-group/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-create-admin-user-and-group/2.1-create-vpc-ec2-connection/</loc>
+    <loc>//localhost:1313/2-create-admin-user-and-group/2.2-create-ec2-instances-and-connection/</loc>
     <lastmod>2025-06-19T06:49:25+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-create-admin-user-and-group/2.1-create-vpc-ec2-connection/"
+                href="//localhost:1313/vi/2-create-admin-user-and-group/2.2-create-ec2-instances-and-connection/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-create-admin-user-and-group/2.1-create-vpc-ec2-connection/"
+                href="//localhost:1313/2-create-admin-user-and-group/2.2-create-ec2-instances-and-connection/"
                 />
   </url><url>
     <loc>//localhost:1313/1-create-new-aws-account/1.2-update-account/</loc>
